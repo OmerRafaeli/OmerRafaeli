@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, My name is Omer </h1>
 <h3 align="center">I'm a passionate full-stack & frontend developer | 3D art and gaming</h3>
 
-<br/>- 🏆 I recently colaborated a Trello look alike project, check it out, jello.
+<br/>- 🏆 I recently colaborated a Trello look alike project, check it out, <a href="https://jello-l37q.onrender.com/" target="_blank" rel="noreferrer">Jello<a/>.
 <br/>- 🧲 A people's person and a tech lover. Autodidact, ambitious, and a team player!
 <br/>- 💬 Ask me about single page apps, game development and 3d art
 <br/>- 📫 How to reach me: omerrafaeli@gmail.com
